@@ -1,0 +1,14 @@
+.home{
+    background-color: gray;
+    color: beige;
+}
+*{
+    background-color: gray;
+}
+.image{
+    height: 15rem;
+    width:15rem;
+}
+.product{
+    color: aquamarine;
+}
